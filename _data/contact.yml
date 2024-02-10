@@ -4,8 +4,7 @@
   icon: "fab fa-github"
 
 - type: linkedin
-   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url:  " linkedin.com/in/janis-miculis-7b757092/ "   # Fill with your Linkedin homepage
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 
 - type: email
   icon: "fas fa-envelope"
